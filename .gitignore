@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+test-results/
+playwright-report/
+.DS_Store
+.env*
+!.env.example
+.vercel/
+coverage/
+*.log
+demo-dashboard-source.zip
