@@ -111,6 +111,14 @@ The end-to-end suite covers authentication flow, protected routes, keyboard sear
 
 This repository demonstrates interface architecture and data modelling. The named platforms are represented by prepared sample records only—there is no live syncing, transaction processing, message sending, booking, analytics tracking, or identity matching.
 
+## Automation extension points
+
+The typed customer model is designed to make future automation boundaries explicit: event-driven CRM synchronisation, AI-assisted support triage, appointment workflows, lead qualification, and human-reviewed agent actions could be added behind audited APIs. These are architectural extension points, not features claimed by the current frontend-only demo.
+
+## Builder profile
+
+Built by [Aditya Jaiswal](https://github.com/adityajaiswal1724), a Full-Stack Developer and AI/ML & Automation Engineer working across web products, applied machine learning, Generative AI, LLM agents, voice-calling systems, workflow orchestration, and API integrations.
+
 ---
 
 <div align="center">
